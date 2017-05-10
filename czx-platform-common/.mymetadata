@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="czx-platform-common"
+  id="myeclipse.1494401660206"
+  context-root="/czx-platform-common"
+  j2ee-spec="6.0"
+  archive="czx-platform-common.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
